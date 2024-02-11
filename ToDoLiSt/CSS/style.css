@@ -1,0 +1,60 @@
+html {
+  background-image: url("../Image/background.png");
+  z-index: 2;
+}
+
+.main-div {
+  display: flex;
+  margin: auto;
+  margin-top: 10%;
+  width: 60%;
+  height: 100%;
+  border-radius: 20px;
+  padding: 5%;
+  background-color: aquamarine;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.main-form {
+  margin: auto;
+}
+.input-contants-form input {
+  display: inline-flex;
+  width: 20rem;
+  height: 40px;
+  border-radius: 60px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 5px;
+  border-color: crimson;
+  border-style: solid;
+}
+.form-labels {
+  display: inline-block;
+  text-align: center;
+  text-justify: auto;
+  font-size: large;
+}
+.form-iters-button {
+  height: 2rem;
+  width: 3rem;
+}
+.disp-non {
+  display: none;
+}
+.SignUpTime input {
+  display: inline-flex;
+  width: 20rem;
+  height: 40px;
+  border-radius: 60px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 5px;
+  border-color: crimson;
+  border-style: solid;
+}
+.SignUpTime label {
+  display: inline-block;
+  text-align: center;
+  text-justify: auto;
+  font-size: large;
+}
